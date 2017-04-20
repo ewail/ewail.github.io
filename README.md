@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## 欢迎来到我的博客
 
-You can use the [editor on GitHub](https://github.com/bioinfo1992/bioinfo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+本博客主要分享生物信息相关技术、小工具等内容
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 主要包含以下内容
 
-### Markdown
+#### Perl语言之字符串处理
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 基于R语言统计绘图
 
-```markdown
-Syntax highlighted code block
+#### 基于D3在线可视化展示
 
-# Header 1
-## Header 2
-### Header 3
+#### 生物云平台搭建
 
-- Bulleted
-- List
+#### 基于tensorflow的机器学习算法
 
-1. Numbered
-2. List
+#### Python爬虫技术（生物数据库信息挖掘）
 
-**Bold** and _Italic_ and `Code` text
+#### 基于实验室、办公自动化（智能报告系统等）
 
-[Link](url) and ![Image](src)
-```
+#### 推荐系统等
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bioinfo1992/bioinfo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### 个人简介&联系方式
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* 姓名：陈浩 *
+
+* 工作单位：上海伯豪生物技术有限公司 *
+
+* QQ ：206268677 *
+
+* Email：chenhao@shangbio.com *
