@@ -38,7 +38,7 @@
 
 姓名:陈浩
 
-博客地址:[点击访问](https://bioinfo1992.github.io/)
+博客地址:[点击访问](https://ewail.github.io/)
 
 Email:206268677@qq.com
 
